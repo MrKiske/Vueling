@@ -1,0 +1,6 @@
+D:\WorkSpace\AtlassianWS\AtlassianLOG\bin\Debug\AtlassianLOG.dll
+D:\WorkSpace\AtlassianWS\AtlassianLOG\bin\Debug\AtlassianLOG.pdb
+D:\WorkSpace\AtlassianWS\AtlassianLOG\obj\Debug\AtlassianLOG.csprojAssemblyReference.cache
+D:\WorkSpace\AtlassianWS\AtlassianLOG\obj\Debug\AtlassianLOG.csproj.CoreCompileInputs.cache
+D:\WorkSpace\AtlassianWS\AtlassianLOG\obj\Debug\AtlassianLOG.dll
+D:\WorkSpace\AtlassianWS\AtlassianLOG\obj\Debug\AtlassianLOG.pdb

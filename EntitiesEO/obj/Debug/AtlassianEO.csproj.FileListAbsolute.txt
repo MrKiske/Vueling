@@ -1,0 +1,11 @@
+D:\WorkSpace\AtlassianWS\EntitiesEO\bin\Debug\AtlassianEO.dll
+D:\WorkSpace\AtlassianWS\EntitiesEO\bin\Debug\AtlassianEO.pdb
+D:\WorkSpace\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.csproj.CoreCompileInputs.cache
+D:\WorkSpace\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.dll
+D:\WorkSpace\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.pdb
+C:\Users\mario.avendano\Documents\Visual Studio 2017\Projects\AtlassianWS\EntitiesEO\bin\Debug\AtlassianEO.dll
+C:\Users\mario.avendano\Documents\Visual Studio 2017\Projects\AtlassianWS\EntitiesEO\bin\Debug\AtlassianEO.pdb
+C:\Users\mario.avendano\Documents\Visual Studio 2017\Projects\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.csproj.CoreCompileInputs.cache
+C:\Users\mario.avendano\Documents\Visual Studio 2017\Projects\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.dll
+C:\Users\mario.avendano\Documents\Visual Studio 2017\Projects\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.pdb
+D:\WorkSpace\AtlassianWS\EntitiesEO\obj\Debug\AtlassianEO.csprojAssemblyReference.cache
